@@ -1,7 +1,7 @@
 # React Arrow Game
 
-Welcome to React Arrow Game! This is a simple game built using React, Redux Toolkit, MaterialUI, Vite, and TypeScript.
-You can play the game [here](https://kotelnikovm.github.io/react-arrow-game/)
+Welcome to React Arrow Game! This is a simple game built using React, Redux Toolkit, MaterialUI, Vite, and TypeScript. <br/>
+You can play the game [here](https://kotelnikovm.github.io/react-arrow-game/){:target="_blank"}.
 
 ## Description
 
